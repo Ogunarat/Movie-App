@@ -1,0 +1,17 @@
+.movieList{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 10px 70px;
+    gap: 30px;
+}
+.movieList h1{
+    font-size: 34px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.movieList div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
